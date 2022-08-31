@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Guanguans Blog
     url: https://www.guanguans.cn
-  - name: Wikipedia
+  - name: Github Pages
     url: https://guanguans.github.io
 
 status-website:
