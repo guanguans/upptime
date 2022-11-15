@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.guanguans.cn.ico",
     "slug": "guanguans-blog",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 718,
-    "timeDay": 4538,
-    "timeWeek": 1041,
-    "timeMonth": 1025,
-    "timeYear": 718,
+    "uptimeYear": "99.97%",
+    "time": 716,
+    "timeDay": 557,
+    "timeWeek": 1061,
+    "timeMonth": 1027,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2022-09-15": 38
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 83,
-    "timeDay": 66,
-    "timeWeek": 84,
-    "timeMonth": 79,
+    "timeDay": 82,
+    "timeWeek": 83,
+    "timeMonth": 80,
     "timeYear": 83,
     "dailyMinutesDown": {
       "2022-09-15": 38
