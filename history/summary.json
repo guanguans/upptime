@@ -4,18 +4,19 @@
     "url": "https://www.guanguans.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.guanguans.cn.ico",
     "slug": "guanguans-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 627,
-    "timeDay": 612,
-    "timeWeek": 471,
+    "timeDay": 0,
+    "timeWeek": 460,
     "timeMonth": 521,
     "timeYear": 627,
     "dailyMinutesDown": {
+      "2023-01-19": 0,
       "2022-09-15": 38
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://guanguans.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/guanguans.github.io.ico",
     "slug": "github-pages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 85,
-    "timeDay": 163,
-    "timeWeek": 104,
-    "timeMonth": 83,
+    "timeDay": 0,
+    "timeWeek": 107,
+    "timeMonth": 81,
     "timeYear": 85,
     "dailyMinutesDown": {
+      "2023-01-19": 0,
       "2022-09-15": 38
     }
   }
