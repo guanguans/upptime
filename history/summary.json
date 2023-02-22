@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 608,
-    "timeDay": 506,
-    "timeWeek": 560,
-    "timeMonth": 526,
-    "timeYear": 608,
+    "time": 607,
+    "timeDay": 365,
+    "timeWeek": 520,
+    "timeMonth": 525,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2022-09-15": 38
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/guanguans.github.io.ico",
     "slug": "github-pages",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 82,
-    "timeDay": 132,
-    "timeWeek": 56,
-    "timeMonth": 72,
+    "timeDay": 40,
+    "timeWeek": 52,
+    "timeMonth": 70,
     "timeYear": 82,
     "dailyMinutesDown": {
       "2022-09-15": 38
