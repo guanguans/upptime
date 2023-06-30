@@ -6,17 +6,16 @@
     "slug": "guanguans-blog",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 582,
-    "timeDay": 861,
-    "timeWeek": 638,
-    "timeMonth": 600,
+    "timeDay": 872,
+    "timeWeek": 639,
+    "timeMonth": 589,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2023-06-29": 11,
       "2022-09-15": 38
     }
   },
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 84,
-    "timeDay": 31,
-    "timeWeek": 84,
-    "timeMonth": 69,
+    "timeDay": 110,
+    "timeWeek": 73,
+    "timeMonth": 70,
     "timeYear": 84,
     "dailyMinutesDown": {
       "2022-09-15": 38
