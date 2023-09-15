@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 575,
-    "timeDay": 343,
-    "timeWeek": 554,
+    "time": 574,
+    "timeDay": 546,
+    "timeWeek": 552,
     "timeMonth": 538,
     "timeYear": 575,
-    "dailyMinutesDown": {
-      "2022-09-15": 38
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Github Pages",
@@ -30,13 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 80,
-    "timeDay": 43,
-    "timeWeek": 59,
+    "time": 81,
+    "timeDay": 131,
+    "timeWeek": 72,
     "timeMonth": 60,
     "timeYear": 81,
-    "dailyMinutesDown": {
-      "2022-09-15": 38
-    }
+    "dailyMinutesDown": {}
   }
 ]
